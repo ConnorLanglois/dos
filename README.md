@@ -1,6 +1,6 @@
 # DOS
 
-A proof-of-concept bot capable of committing Denial-of-Service attacks.
+Proof-of-concept bots capable of committing Denial-of-Service attacks.
 
 ## Getting Started
 
