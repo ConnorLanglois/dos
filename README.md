@@ -1,6 +1,6 @@
 # DOS
 
-Proof-of-concept bots capable of committing Denial-of-Service attacks.
+Penetration testing tools capable of committing Denial-of-Service attacks.
 
 ## Getting Started
 
@@ -22,7 +22,7 @@ Clone the repo.
 Run either of the main files:
 
 	```
-	src/pingDoS.py
+	src/pingDoS.bat
 	src/UDPDoS.py
 	```
 
