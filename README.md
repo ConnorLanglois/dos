@@ -21,10 +21,10 @@ Clone the repo.
 
 Run either of the main files:
 
-	```
-	src/pingDoS.bat
-	src/UDPDoS.py
-	```
+```
+src/pingDoS.bat
+src/UDPDoS.py
+```
 
 ## Authors
 
